@@ -6,3 +6,5 @@ Made to test knowledge of class, function, and module development developed usin
 Run using alien_invasion.py through a scripting window such a spyder.
 
 If directory troubles occur try import os; os.chdir(somedirectory) where somedirectory is the directory containing alien_invasion.py.
+
+![visuals](alien_invasion_program.gif)
